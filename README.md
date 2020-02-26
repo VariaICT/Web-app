@@ -18,7 +18,7 @@ Tee tyoaikakirjanpito.md -tiedostoon taulukko mallin mukaan. Palauta GitHubin We
 | 1.1.2020 | 3h  | HTML projektisivun tekeminen. |
 | 2.1.2020 | 8h  | Puhelinluettelon lisää -nappulan toiminnallisuuden ohjelmointi.  |
 | 3.1.2020 | 1h  | Puhelinluettelon lisää -nappulan yksikkötestaaminen. |
-|  | Käytetty aika yhteensä | 12h |  
+| **Yhteensä** | **12h** |  |  
  
 ## Sisältö ja tehtävät
 1. **Tehtävä: HTML tutorial**
