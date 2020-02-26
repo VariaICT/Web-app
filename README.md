@@ -7,11 +7,19 @@ Tee GitHubiin repositorio nimeltä Web-sovellukset ja sen alle kaksi kansiota:
   * Projekti
 
 
-Tutorial-tehtävät nimetään tehtävän mukaan, esim. teht1.html ja palautetaan GitHubiin tehtävän mukaan nimettyyn kansioon, esim. /Tutorial/Teht1/teht1.html. 
+Tutorial-tehtävät nimetään tehtävän mukaan, esim. teht1.html ja palautetaan GitHubin Web-app repositorioon tehtävän mukaan nimettyyn kansioon, esim. /Tutorial/Teht1/teht1.html. 
   
-Projekti on koko jakson ajan laajentuva tehtävä, jonka seuraava versio voidaan tallentaa aina edellisen päälle. Projektia tehdään siis iteratiivisesti.
+Projekti on koko jakson ajan laajentuva tehtävä, jonka seuraava versio voidaan tallentaa aina edellisen päälle. Projektia tehdään siis iteratiivisesti. Projektista täytetään myös työaikakirjanpitoa. Työaikakirjanpidosta tehdään tyoaikakirjanpito.md -tiedosto GitHubiin.  
 
+Tee tyoaikakirjanpito.md -tiedostoon taulukko mallin mukaan. Palauta GitHubin Web-app repositorion kansioon Dokumentointi. 
 
+| Pvm. | Käytetty aika | Aihe |
+| ------------- | ------------- | ------------- |
+| 1.1.2020 | 3h  | Content Cell  | HTML projektisivun tekeminen. |
+| 2.1.2020 | 8h  | Puhelinluettelon lisää -nappulan toiminnallisuuden ohjelmointi.  |
+| 3.1.2020 | 1h  | Puhelinluettelon lisää -nappulan yksikkötestaaminen. |
+| Käytetty aika yhteensä | 12h |  |  
+ 
 ## Sisältö ja tehtävät
 1. **Tehtävä: HTML tutorial**
   * Katso tutorial: https://youtu.be/UB1O30fR-EE
