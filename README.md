@@ -99,7 +99,6 @@ Tee tyoaikakirjanpito.md -tiedostoon taulukko mallin mukaan. Palauta versionhall
     * Yhteystieto poistettu 
     * Notification poistuu sivulta 5 sek. kuluttua.
 
-    ![ERROR](error.png)
     ![ADDED](added.png)
 
 17. **Puhelinluettelo**
