@@ -101,6 +101,4 @@ Tee tyoaikakirjanpito.md -tiedostoon taulukko mallin mukaan. Palauta versionhall
 
     ![ADDED](added.png)
 
-17. **Puhelinluettelo**
-    * Toggle -toiminnallisuus
-    * Näytä / piilota uuden yhteystiedon lisäyslomake nappia painamalla.
+
