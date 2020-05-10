@@ -88,7 +88,7 @@ Tee tyoaikakirjanpito.md -tiedostoon taulukko mallin mukaan. Palauta versionhall
   * Käytä tietokantaa, esim. MariaDB, MongoDB tai MySQL.
 
 14. **Puhelinluettelo**
-  * Tee projektiin Poista -toiminnalisuus.
+  * Tee projektiin Poista -toiminnallisuus.
 
 15. **Puhelinluettelo**
   * Tee projektiin Filter -toiminnallisuus.
