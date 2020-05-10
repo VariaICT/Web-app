@@ -37,65 +37,64 @@ Tee tyoaikakirjanpito.md -tiedostoon taulukko mallin mukaan. Palauta versionhall
   * Katso tutorial: https://youtu.be/yfoY53QXEnI
   * Tee videon tyylitiedostoharjoitus.
   * Palauta versionhallintaan.
+  
 4. **Tehtävä: Portfolion CSS** 
   * Tee puhelinluetteloosi ulkoinen tyylitiedosto. Muokkaa:
-  ** Taustakuva
-  ** Otsikoiden fontti, väri ja koko. Keskitä otsikot keskelle sivua. 
-  ** Leipätekstin fontti tyyli ja koko.
-  ** Tee listan bulleteista kuvia.
-  ** Tee jokaisesta sivun osiosta div, jossa on pyöreät kulmat ja taustakuvasta erottuva taustaväri: Phonebook, Add a new, Numbers
-  ** Muokka lomakkeiden kenttien reunojen väriä.
-  ** Tee nappuloista mustia valkoisella tekstillä.
-  ** Palauta versionhallintaan.
+    * Taustakuva
+    * Otsikoiden fontti, väri ja koko. Keskitä otsikot keskelle sivua. 
+    * Leipätekstin fontti tyyli ja koko.
+    * Tee listan bulleteista kuvia.
+    * Tee jokaisesta sivun osiosta div, jossa on pyöreät kulmat ja taustakuvasta erottuva taustaväri: Phonebook, Add a new, Numbers
+    * Muokka lomakkeiden kenttien reunojen väriä.
+    * Tee nappuloista mustia valkoisella tekstillä.
+    * Palauta versionhallintaan.
 
 5. **Tehtävä: BOOTSTRAP**
   * Tutki Bootstrapin toimintaa
-  ** https://getbootstrap.com/
-  ** https://www.w3schools.com/bootstrap4/default.asp
-  ** Käytä Bootstrapia vähintään portfoliosi responsiivisuuden sekä navigoinnin toteuttamiseen.  
+    * https://getbootstrap.com/
+    * https://www.w3schools.com/bootstrap4/default.asp
+    * Käytä Bootstrapia vähintään portfoliosi responsiivisuuden sekä navigoinnin toteuttamiseen.  
 
 7. **Tehtävä: JAVASCRIPT**
   * Katso tutorial: https://youtu.be/hdI2bqOjy3c
   * Tee videon JavaScript-harjoitus.
-  * Palauta GitHubiin /Tutorial/teht6/ -kansioon.
-  * EI PROJEKTITEHTÄVÄÄ
+  * Palauta versionhallintaan.
+  * EI ERILLISTÄ PORTFOLIO -TEHTÄVÄÄ
 
 8. **Tehtävä: JSON**
   * Katso tutorial: https://youtu.be/wI1CWzNtE-M
   * Tee videon JSON-harjoitus.
-  * Palauta GitHubiin /Tutorial/teht8/ -kansioon.
-  * EI PROJEKTITEHTÄVÄÄ
+  * Palauta versionhallintaan.
+  * EI ERILLISTÄ PORTFOLIO -TEHTÄVÄÄ
 
 9. **Tehtävä: REACT JS**
   * Katso tutorial: https://youtu.be/sBws8MSXN7A
   * Tee videon React JS-harjoitus.
-  * Palauta GitHubiin /Tutorial/teht9/ -kansioon.
+  * Palauta versionhallintaan.
   
-10. **Tehtävä: Projektin React JS** 
-  * Tee projektisi frontend React JS:lla: kovakoodatulla datalla, ei vielä toiminnallisuutta.
+10. **Tehtävä: Portfolion puhelinluettelon React JS** 
+  * Tee puhelinluettelon frontend React JS:lla: kovakoodatulla datalla, ei vielä toiminnallisuutta.
     
 11. **Tehtävä: NODE.JS**
   * Katso tutorial: https://youtu.be/fBNz5xF-Kx4
   * Tee videon Node.js-harjoitus.
-  * Palauta GitHubiin /Tutorial/teht11/ -kansioon.
+  * Palauta versionhallintaan.
   
-12. **Tehtävä: Projektin Node.js** 
-  * Tee projektisi backend Node.js:llä.
+12. **Tehtävä: Portfolion puhelinluettelon Node.js** 
+  * Tee puhelinluettelo backend Node.js:llä.
 
-13. **Projekti**
-  * Tee projektiin lisää -toiminnallisuus, eli lomakeelta voi lisätä lisää yhteystietoja.
+13. **Puhelinluettelo**
+  * Tee puhelinluetteloon Lisää -toiminnallisuus, eli lomakeelta voi lisätä lisää yhteystietoja.
 
-14. **Projekti**
-  * Tee projektiin poista -toiminnalisuus.
+14. **Puhelinluettelo**
+  * Tee projektiin Poista -toiminnalisuus.
 
-15. **Projekti**
-  * Tee projektiin filter -toiminnallisuus.
+15. **Puhelinluettelo**
+  * Tee projektiin Filter -toiminnallisuus.
 
-16. **Projekti**
+16. **Puhelinluettelo**
   * Tee projektiin Notification -toiminnallisuus
     * Yhteystieto lisätty
-    * Liian lyhyt nimi
-    * Liian lyhyt puhelinnumero
     * Nimi tai numero puuttuu
     * Yhteystieto poistettu 
     * Notification poistuu sivulta 5 sek. kuluttua.
@@ -103,6 +102,6 @@ Tee tyoaikakirjanpito.md -tiedostoon taulukko mallin mukaan. Palauta versionhall
     ![ERROR](error.png)
     ![ADDED](added.png)
 
-17. **Projekti**
+17. **Puhelinluettelo**
     * Toggle -toiminnallisuus
     * Näytä / piilota uuden yhteystiedon lisäyslomake nappia painamalla.
