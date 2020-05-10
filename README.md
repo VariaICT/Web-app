@@ -2,16 +2,13 @@
 # Web-sovellukset 2020 
 
 ## Valmistaudu jaksoon
-Tee GitHubiin repositorio nimeltä Web-sovellukset ja sen alle kaksi kansiota: 
-  * Tutorial
-  * Projekti
+Tee versionhallintaan repositoriot nimeltä Web-app sekä Portfolio.
 
-
-Tutorial-tehtävät nimetään tehtävän mukaan, esim. teht1.html ja palautetaan GitHubin Web-app repositorioon tehtävän mukaan nimettyyn kansioon, esim. /Tutorial/Teht1/teht1.html. 
+Tutorial-tehtävät nimetään tehtävän mukaan, esim. teht1.html ja palautetaan versionhallintaan Web-app repositorioon tehtävän mukaan nimettyyn kansioon, esim. /Tutorial/Teht1/teht1.html. 
   
-Projekti on koko jakson ajan laajentuva tehtävä, jonka seuraava versio voidaan tallentaa aina edellisen päälle. Projektia tehdään siis iteratiivisesti. Projektista täytetään myös työaikakirjanpitoa. Työaikakirjanpidosta tehdään tyoaikakirjanpito.md -tiedosto GitHubiin.  
+Portfolio on koko jakson ajan laajentuva tehtävä, jonka seuraava versio voidaan tallentaa aina edellisen päälle. Portfoliota tehdään siis iteratiivisesti. Projektista täytetään myös työaikakirjanpitoa. Työaikakirjanpidosta tehdään tyoaikakirjanpito.md -tiedosto versionhallintaan.  
 
-Tee tyoaikakirjanpito.md -tiedostoon taulukko mallin mukaan. Palauta GitHubin Web-app repositorion kansioon Dokumentointi. 
+Tee tyoaikakirjanpito.md -tiedostoon taulukko mallin mukaan. Palauta versionhallintaan Web app repositorion kansioon Dokumentointi. 
 
 | Pvm. | Käytetty aika | Aihe |
 | ------------- | ------------- | ------------- |
@@ -24,33 +21,38 @@ Tee tyoaikakirjanpito.md -tiedostoon taulukko mallin mukaan. Palauta GitHubin We
 1. **Tehtävä: HTML tutorial**
   * Katso tutorial: https://youtu.be/UB1O30fR-EE
   * Tee HTML-sivu videon ohjeiden mukaisesti.
-  * Palauta GitHubiin /Tutorial/teht1/ -kansioon.  
-2. **Tehtävä: Projektin HTML** 
-  * Aloita koko jakson kestävä, Websovelluksena toteutettu, Yhteystieto-projekti tekemällä kuvan mukainen HTML-sivu. 
-  * Nimeä HTML-sivu nimellä index.html ja palauta repositoriosi Projekti-kansioon.
-
+  * Palauta versionhallintaan.  
+2. **Tehtävä: Portfolion HTML** 
+  * Aloita Websovelluksena toteutettu Portfolio-projekti tekemällä valmiiksi HTML rakenne. Sisällön tulisi sisältää ainakin:
+  ** Aloitussivu, jossa esittelet itsesi 
+  ** Unity: linkit tekemiisi nettipeleihin.
+  ** Python: Vihollispelin sekä Tasklistin asennus 
+  ** Puhelinluettelo: Web app:
+  
 ![HTML](HTML.png)
+
+* Nimeä aloitussivu nimellä index.html ja palauta Portfolioon.
 
 3. **Tehtävä: CSS tutorial**
   * Katso tutorial: https://youtu.be/yfoY53QXEnI
   * Tee videon tyylitiedostoharjoitus.
-  * Palauta GitHubiin /Tutorial/teht3/ -kansioon.
-4. **Tehtävä: Projektin CSS** 
-  * Tee projektisi index.html tiedostoon ulkoinen tyylitiedosto. Muokkaa:
-  * Taustakuva
-  * Otsikoiden fontti, väri ja koko. Keskitä otsikot keskelle sivua. 
-  * Leipätekstin fontti tyyli ja koko.
-  * Tee listan bulleteista kuvia.
-  * Tee jokaisesta sivun osiosta div, jossa on pyöreät kulmat ja taustakuvasta erottuva taustaväri: Phonebook, Add a new, Numbers
-  * Muokka lomakkeiden kenttien reunojen väriä.
-  * Tee nappuloista mustia valkoisella tekstillä.
-  * Palauta GitHubiin Projekti-kansioon.
+  * Palauta versionhallintaan.
+4. **Tehtävä: Portfolion CSS** 
+  * Tee puhelinluetteloosi ulkoinen tyylitiedosto. Muokkaa:
+  ** Taustakuva
+  ** Otsikoiden fontti, väri ja koko. Keskitä otsikot keskelle sivua. 
+  ** Leipätekstin fontti tyyli ja koko.
+  ** Tee listan bulleteista kuvia.
+  ** Tee jokaisesta sivun osiosta div, jossa on pyöreät kulmat ja taustakuvasta erottuva taustaväri: Phonebook, Add a new, Numbers
+  ** Muokka lomakkeiden kenttien reunojen väriä.
+  ** Tee nappuloista mustia valkoisella tekstillä.
+  ** Palauta versionhallintaan.
 
 5. **Tehtävä: BOOTSTRAP**
-  * Katso tutorial: https://youtu.be/5GcQtLDGXy8
-  * Tee videon Bootstrap-harjoitus.
-  * Palauta GitHubiin /Tutorial/teht5/ -kansioon.
-  * EI PROJEKTITEHTÄVÄÄ
+  * Tutki Bootstrapin toimintaa
+  ** https://getbootstrap.com/
+  ** https://www.w3schools.com/bootstrap4/default.asp
+  ** Käytä Bootstrapia vähintään portfoliosi responsiivisuuden sekä navigoinnin toteuttamiseen.  
 
 7. **Tehtävä: JAVASCRIPT**
   * Katso tutorial: https://youtu.be/hdI2bqOjy3c
@@ -68,6 +70,7 @@ Tee tyoaikakirjanpito.md -tiedostoon taulukko mallin mukaan. Palauta GitHubin We
   * Katso tutorial: https://youtu.be/sBws8MSXN7A
   * Tee videon React JS-harjoitus.
   * Palauta GitHubiin /Tutorial/teht9/ -kansioon.
+  
 10. **Tehtävä: Projektin React JS** 
   * Tee projektisi frontend React JS:lla: kovakoodatulla datalla, ei vielä toiminnallisuutta.
     
@@ -75,6 +78,7 @@ Tee tyoaikakirjanpito.md -tiedostoon taulukko mallin mukaan. Palauta GitHubin We
   * Katso tutorial: https://youtu.be/fBNz5xF-Kx4
   * Tee videon Node.js-harjoitus.
   * Palauta GitHubiin /Tutorial/teht11/ -kansioon.
+  
 12. **Tehtävä: Projektin Node.js** 
   * Tee projektisi backend Node.js:llä.
 
