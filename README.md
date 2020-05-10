@@ -84,7 +84,8 @@ Tee tyoaikakirjanpito.md -tiedostoon taulukko mallin mukaan. Palauta versionhall
   * Tee puhelinluettelo backend Node.js:llä.
 
 13. **Puhelinluettelo**
-  * Tee puhelinluetteloon Lisää -toiminnallisuus, eli lomakeelta voi lisätä lisää yhteystietoja.
+  * Tee puhelinluetteloon Lisää -toiminnallisuus, eli lomakeelta voi lisätä lisää yhteystietoja. 
+  * Käytä tietokantaa, esim. MariaDB, MongoDB tai MySQL.
 
 14. **Puhelinluettelo**
   * Tee projektiin Poista -toiminnalisuus.
