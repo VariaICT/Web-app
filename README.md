@@ -73,7 +73,7 @@ Tee tyoaikakirjanpito.md -tiedostoon taulukko mallin mukaan. Palauta versionhall
   * Palauta versionhallintaan.
   
 10. **Tehtävä: Portfolion puhelinluettelon React JS** 
-  * Tee puhelinluettelon frontend React JS:lla: kovakoodatulla datalla, ei vielä toiminnallisuutta.
+  * Tee puhelinluettelon frontend React JS:lla: kovakoodatulla JSON datalla, ei vielä toiminnallisuutta.
     
 11. **Tehtävä: NODE.JS**
   * Katso tutorial: https://youtu.be/fBNz5xF-Kx4
