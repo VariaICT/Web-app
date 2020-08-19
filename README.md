@@ -74,9 +74,11 @@ Tee tyoaikakirjanpito.md -tiedostoon taulukko mallin mukaan. Palauta versionhall
   * my-app on kansio, johon haluat React projektin luoda. Jos haluat projektin nykyiseen kansioon: npx create-react-app .
   * Jos loit uuden kansion, siirry kyseiseen kansioon: cd my-app
   * käynnistä projekti: npm start
-  * Aloitetaan index.html sivusta.
-  **
-  
+  * Aloitetaan index.html sivusta: muuta sivun title ja ikoni.
+  * Muokkaa App.css tiedostoa haluamasi näköiseksi.
+  * Siirry App.js tiedostoon. Poista tiedoston sisältö ja aloita alusta. 
+  * Importoi tarvittavat komponentit ja kirjastot
+  * Tässä vaiheessa et tarvitse muuta kuin App.css tiedoston ja 
   
 10. **Tehtävä: Portfolion puhelinluettelon React JS** 
   * Tee puhelinluettelon frontend React JS:lla: kovakoodatulla JSON datalla, ei vielä toiminnallisuutta.
