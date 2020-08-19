@@ -68,9 +68,15 @@ Tee tyoaikakirjanpito.md -tiedostoon taulukko mallin mukaan. Palauta versionhall
   * EI ERILLISTÄ PORTFOLIO -TEHTÄVÄÄ
 
 9. **Tehtävä: REACT JS**
-  * Katso tutorial: https://youtu.be/sBws8MSXN7A
-  * Tee videon React JS-harjoitus.
-  * Palauta versionhallintaan.
+  * Tee itsellesi työnhakujärjestelmä:
+  * Voidaksesi tehdä harjoituksia, sinulla tulee olla node.js asennettuna. 
+  * Avaa VS Code:n terminaali ja lataa React: npx create-react-app my-app
+  * my-app on kansio, johon haluat React projektin luoda. Jos haluat projektin nykyiseen kansioon: npx create-react-app .
+  * Jos loit uuden kansion, siirry kyseiseen kansioon: cd my-app
+  * käynnistä projekti: npm start
+  * Aloitetaan index.html sivusta.
+  **
+  
   
 10. **Tehtävä: Portfolion puhelinluettelon React JS** 
   * Tee puhelinluettelon frontend React JS:lla: kovakoodatulla JSON datalla, ei vielä toiminnallisuutta.
