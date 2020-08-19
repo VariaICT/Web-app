@@ -77,13 +77,33 @@ Tee tyoaikakirjanpito.md -tiedostoon taulukko mallin mukaan. Palauta versionhall
   * Aloitetaan index.html sivusta: muuta sivun title ja ikoni.
   * Muokkaa App.css tiedostoa haluamasi näköiseksi.
   * Siirry App.js tiedostoon. Poista tiedoston sisältö ja aloita alusta. 
-  * Importoi React ja App.css
+  * Importoi React ja App.css ja exporttaa App-komponentti 
 
 ```
 import React from 'react';
 import './App.css';
+
+export default App;
 ```
-  
+  * Aloitetaan React-sisällön lisääminen App.js tiedostoon. Tee App.js tiedostoon App -funktio
+
+```
+function App() {}
+```
+
+  * palauta funktiosta html-muotoista sisältöä:
+
+```
+return (
+      <div>
+        <div className="container">
+          
+        </div>
+      </div>
+    
+  );
+```
+
 10. **Tehtävä: Portfolion puhelinluettelon React JS** 
   * Tee puhelinluettelon frontend React JS:lla: kovakoodatulla JSON datalla, ei vielä toiminnallisuutta.
     
