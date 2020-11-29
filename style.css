@@ -1,0 +1,172 @@
+
+h1{
+  color:blueviolet;
+}
+h2{
+  color:blueviolet;
+}
+body{
+  background-color: rgb(10, 74, 119);
+  color:#166807;
+  font-family:Arial, Helvetica, sans-serif;
+  font-weight:normal;
+  font-size:12px;
+  line-height:1.5em;
+  margin:0;
+}
+.sisalto1{
+  background-color: rgb(245, 35, 234);
+  padding:10px;
+  border-right-style:double;
+  border-left-style:dashed;
+  border-top-style:dotted;
+  border-bottom-style:solid;
+}
+.sisalto1 h1{
+  font-family:Tahoma;
+  text-decoration:underline;
+  text-transform:uppercase;
+  letter-spacing:0.5em;
+  word-spacing:1em;
+}
+.alue1{
+  width:70%;
+  margin:auto;
+}
+.linkkilista{
+  margin-top: 10px;
+  border:1px #166807 solid;
+  padding:20px;
+  border-radius:20px;
+}
+.linkkilista h2{
+  text-align:center;
+  color:#6D0367;
+}
+.linkkilista ul{
+  list-style-type:none;
+}
+a{
+  text-decoration:none;
+  color:black;
+}
+a:hover{
+  color:#46FD05;
+}
+a:active{
+  color:aqua;
+}
+.linkkilista li{
+  border-bottom:dotted 1px black;
+}
+.yhteydenotto label{
+  display:block;
+}
+.yhteydenotto input[type="text"], .yhteydenotto textarea{
+  padding:10px;
+  width:100%;
+}
+.nappula{
+  background-color: black;
+  color:white;
+  padding:10px;
+  border:none;
+}
+.nappula:hover{
+  background-color: royalblue;
+  color:white;
+}
+.laatikko{
+  float:left;
+  width:33.3%;
+  border:2px solid black;
+  padding:10px;
+  box-sizing: border-box;
+  margin-top:25px;
+  position:relative;
+}
+.asemointi{
+  position:fixed;
+  top:100px;
+  left:0px;
+}
+///////////////////////////////////////////////////////////////////////
+*{
+  margin:0;
+  padding:0;
+}
+ul{
+  list-style:none;
+}
+ul li{
+  padding:5px;
+  background:#f8e7fd;
+  margin:5px 0;
+}
+header{
+  background:#fa7db1;
+  padding:10px;
+  text-align:center;
+}
+#opiskelija-lomake{
+  background:#fa7db1;
+  padding:15px;
+  display:block;
+}
+#opiskelija-lomake input[type='text'], #opiskelija-lomake textarea{
+  width:100%;
+  padding:8px;
+  margin-bottom:10px;
+  border-radius:5px;
+  border:1px solid #ccc;
+}
+.kurssinappi {
+  display:block;
+  width:100%;
+  padding:10px 15px;
+  border:0;
+  background:rgb(51, 44, 44);
+  color:#fff;
+  border-radius:5px;
+  margin:5px 0; 
+}
+.kurssinappi:hover{
+  background:#444;
+}
+.lahetanappi {
+  display:block;
+  width:100%;
+  padding:10px 15px;
+  border:0;
+  background:rgb(51, 44, 44);
+  color:#fff;
+  border-radius:5px;
+  margin:5px 0; 
+}
+.lahetanappi:hover{
+  background:#444;
+}
+.merkinta{
+  display:block;
+  width:100%;
+  padding:10px 15px;
+  border:0;
+  background:rgb(51, 44, 44);
+  color:#fff;
+  border-radius:5px;
+  margin:5px 0; 
+}
+.merkinta:hover{
+  background:#444;
+}
+.lomake-alue{
+  padding:10px 15px;
+  width:70%;
+  margin:auto;
+}
+.virhe{
+  background:rgb(160, 7, 7);
+  color:#fff;
+  padding:10px;
+  margin:10px;
+}
